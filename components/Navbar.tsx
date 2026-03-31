@@ -31,7 +31,7 @@ export default function Navbar() {
       }`}
     >
       <div className="container mx-auto px-6 md:px-12 flex items-center justify-between">
-        <a href="#" className="relative h-[50px] w-[200px] md:h-[100px] md:w-[400px] block transition-all duration-300 -ml-2">
+        <a href="#" className="relative h-[70px] w-[260px] md:h-[120px] md:w-[480px] lg:h-[160px] lg:w-[640px] block transition-all duration-300 -ml-2">
           <Image 
             src="https://i.postimg.cc/7Ypd8FmS/logo.png" 
             alt="ELEVÁH" 

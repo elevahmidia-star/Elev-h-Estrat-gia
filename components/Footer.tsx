@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="container mx-auto px-6 md:px-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-16">
           <div className="md:col-span-2">
-            <a href="#" className="relative h-10 w-40 block mb-6">
+            <a href="#" className="relative h-16 w-64 block mb-6">
               <Image 
                 src="https://i.postimg.cc/7Ypd8FmS/logo.png" 
                 alt="ELEVÁH" 
